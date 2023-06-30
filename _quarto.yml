@@ -1,0 +1,32 @@
+project:
+  type: website
+  output-dir: render
+
+website:
+  title: "Les Mouettes Savantes"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Présentation
+      - href: orga.qmd
+        text: Organisation
+        
+    right: 
+      - text: Première édition 2024
+        menu:
+        - text: "Projet 1"
+          href: projet1.qmd
+        - text: "Projet 2"
+          href: projet2.qmd
+        - text: "Projet 3"
+          href: projet3.qmd
+format:
+  html:
+    theme: sandstone
+    fontcolor: "#2D4200"
+    linkcolor: "#A3BD00"
+    css: styles.css
+    toc: true
+
+
+

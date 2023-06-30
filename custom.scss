@@ -1,0 +1,48 @@
+/* css styles */
+/*-- scss:defaults --*/
+$h2-font-size:          1.6rem !default;
+$headings-font-weight:  500 !default;
+$sketchy-primary-color: #C0F26A;
+$body-color:            $gray-700 !default;
+
+/*-- scss:rules --*/
+.header {
+	color: #C0F26A;
+}
+
+footer {
+	background-color: #F5F6F7;
+}
+
+content_b {
+	background-color: #F5F6F7;
+}
+
+navitem_t {
+	color: #A3BD00;
+}
+
+header_b {
+	background-color: #2D4200;
+}
+
+navitem_bh {
+	background-color: #2D4200;
+}
+
+navitem_th {
+	color: #CE322B;
+}
+
+navitem_b {
+	background-color: #2D4200;
+}
+
+content_t {
+	color: #2D4200;
+}
+
+sidebar_b {
+	background-color: #2D4200;
+}
+
