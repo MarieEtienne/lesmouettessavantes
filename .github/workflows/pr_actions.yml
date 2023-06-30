@@ -3,14 +3,11 @@ on:
   pull_request:
     branches: [ master ]
     
-jobs:   
-  build:
-    name: Build website with rmarkdown
+jobs:
+  quarto-render-and-deploy:
     runs-on: ubuntu-latest
-    container: stateofther/r-finistr2022:0.11
-
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v2
-      - name: Generate slides
-        run: Rscript -e "rmarkdown::render_site(encoding = 'UTF-8')"
+    - uses: actions/checkout@v2
+
+    - name: "Install Quarto and render"
+      uses: pommevilla/quarto-render@main
