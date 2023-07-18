@@ -8,6 +8,8 @@ website:
     left:
       - href: index.qmd
         text: Présentation
+      - href: descriptionProjet.qmd
+        text: Notre projet
       - href: orga.qmd
         text: Organisation
         
