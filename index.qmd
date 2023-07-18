@@ -1,9 +1,10 @@
 ---
 title: "Les Mouettes Savantes"
-subtitle: "Les mathématiques et de l’informatique au service de l’écologie"
+subtitle: "Les mathématiques et l’informatique au service de l’écologie"
 title-block-banner: true
 ---
 
+```{=html}
 <style>
 
 #title-block-header {
@@ -30,24 +31,21 @@ margin-top: 10px; /* An absolute length */
 }
 
 </style>
+```
+           
 
-
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
+Chères lycéennes de seconde,
 
-Bienvenue sur le site des Mouettes Savantes, une intiative qui organise des séjours scientifiques à [la station biologique de Paimpont](https://paimpont.univ-rennes.fr/), Station de terrain de l'Université de Rennes 1 dédié à l'enseignement, la recherche, l’accueil de groupes et la médiation scientifique au cœur de la mystérieuse Forêt de Brocéliande ! Les Mouettes Savantes, un programme unique qui offre aux filles, élèves de seconde l'opportunité exceptionnelle de plonger dans le monde passionnant des mathématiques et de l'informatique au service de l'écologie.
+Bienvenue sur le site des Mouettes Savantes, un projet de séjour scientifique passionnant qui combine les domaines des mathématiques, de l'informatique et de l'écologie. Pendant une semaine, vous aurez l'opportunité de vous immerger dans la magnifique [station biologique de Paimpont](https://paimpont.univ-rennes.fr/), Station de terrain de l'Université de Rennes 1 dédiée à l'enseignement et la recherche, située au cœur de la légendaire forêt de Brocéliande.
 
-Pendant ce séjour, les participantes auront l'occasion de développer leurs compétences en mathématiques et en informatique tout en se familiarisant avec les enjeux cruciaux de la préservation de l'environnement. Guidées par des enseignantes chercheuses et des enseignants chercheurs exerçant à l'université ou dans des écoles d'ingénieurs, elles découvriront des projets de recherche pluri disciplinaires autour de ces questions  et pourront développer leur propres projets.
+Ce séjour unique vous propose de participer à des projets de recherche concrets au service de l'écologie. Vous aurez l'occasion de vous plonger dans l'étude des écosystèmes de la Forêt de Brocéliande, découvrir les espèces locales et évaluer l'impact de l'homme sur l'environnement. Vous apprendrez comment les mathématiques et l'informatique peuvent contribuer à mieux comprendre et protéger ces environnements fragiles. Imaginez la satisfaction de contribuer activement à la préservation de notre planète en utilisant vos compétences scientifiques !
 
-Le temps du séjour sera partagé entre des temps de travail sur les projets proposés et des temps de découverte de la nature environnante ainsi que des spécificités de la forêt de Brocéliande.  Elles pourront se plonger dans l'étude des écosystèmes de la Forêt de Brocéliande, découvrir les espèces locales et apprendre comment les mathématiques et l'informatique peuvent contribuer à mieux comprendre et protéger ces environnements fragiles.
+En plus des activités de recherche, vous pourrez profiter d'activités ludiques et enrichissantes. Laissez-vous emporter par l'adrénaline de l'accrobranche, en vous aventurant dans les hauteurs des majestueux arbres de la forêt de Brocéliande. Plongez dans les légendes arthuriennes qui ont inspiré tant d'écrivains et de chercheurs au fil des siècles, et découvrez les mystères et la magie qui entourent cette région légendaire.
 
-L'équipe pédagogique dévouée accompagnera les élèves tout au long de leur séjour, en leur fournissant un encadrement personnalisé et en les encourageant à explorer leur créativité et leur esprit d'innovation. Les participantes auront également l'occasion de rencontrer des femmes scientifiques inspirantes, qui partageront leurs expériences et leur parcours dans le domaine des sciences et de l'écologie.
+Ce séjour scientifique sera une expérience inoubliable, où vous pourrez développer vos compétences en mathématiques et en informatique, tout en vous connectant avec la nature et en explorant les richesses historiques et culturelles de la forêt de Brocéliande.
 
-En plus de l'aspect académique, les élèves profiteront de la beauté naturelle de la Forêt de Brocéliande. Des activités de plein air, des randonnées et des visites de sites emblématiques de la région viendront compléter cette expérience unique, favorisant ainsi un équilibre entre l'apprentissage, l'exploration et le plaisir.
+Nous vous invitons à rejoindre notre équipe de jeunes scientifiques motivées, où vous pourrez élargir vos horizons, créer des souvenirs durables et contribuer à un avenir plus durable.
 
-Ce séjour scientifique à la station biologique de Paimpont est une opportunité extraordinaire pour les élèves filles de seconde de développer leurs compétences en mathématiques et en informatique, tout en découvrant le monde de la recherche pluridisciplinaire en science.  Rejoignez-nous dans cette aventure passionnante au cœur de la Forêt de Brocéliande, où la science rencontre la nature pour façonner un avenir meilleur.
-
+A l'issue de cette semaine, vous restituerez vos travaux sous la forme d'un poster, d'une vidéo, d'un podcast ou de tout autre support de votre choix qui vous permettra de partager votre expérience au sein de votre lycée.
