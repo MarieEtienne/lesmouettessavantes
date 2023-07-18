@@ -1,6 +1,6 @@
 ---
 title: "Les Mouettes Savantes"
-subtitle: "Découvrir la recherche pluridisciplinaire"
+subtitle: "Les mathématiques et de l’informatique au service de l’écologie"
 title-block-banner: true
 ---
 
