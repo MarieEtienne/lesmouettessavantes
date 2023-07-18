@@ -5,7 +5,7 @@ editor: visual
 
 ### Pourquoi ?
 
-Les mathématiques associées à l'informatique sont omniprésentes dans tous les domaines de l'activité humaine. Pourtant, de moins en moins de lycéens et encore moins de lycéennes choisissent de poursuivre les mathématiques dans les options de première et de terminale. Cette tendance risque d'accentuer la sous-représentation des femmes dans les métiers liés aux mathématiques et plus généralement au numérique.
+Les mathématiques associées à l'informatique sont omniprésentes dans tous les domaines de l'activité humaine. Pourtant, de moins en moins de lycéens et encore moins de lycéennes choisissent de poursuivre les mathématiques dans les options de première et de terminale. Cette tendance risque d'accentuer la sous-représentation des femmes dans les métiers liés aux mathématiques et plus généralement au numérique, suscitant de vives inquiétudes sur les questions de **parité** hommes-femmes dans ces domaines.
 
 Par ailleurs, la crise climatique et l'effondrement de la biodiversité nécessitent de former les jeunes générations pour répondre aux enjeux et aux défis en cours et à venir. Les mathématiques et l'informatique font partie des outils indispensables pour aborder ces questions.
 
