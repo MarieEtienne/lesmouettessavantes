@@ -9,7 +9,7 @@ website:
       - href: index.qmd
         text: Présentation
       - href: descriptionProjet.qmd
-        text: Notre projet
+        text: Démarche
       - href: orga.qmd
         text: Organisation
         
