@@ -4,7 +4,10 @@ project:
 
 website:
   title: "Les Mouettes Savantes"
+
+        
   navbar:
+    background:  "#1B5E20"
     left:
       - href: index.qmd
         text: Présentation
@@ -12,19 +15,16 @@ website:
         text: Démarche
       - href: orga.qmd
         text: Détails pratiques
-        
-    right: 
-      - text: Première édition 2024
-        menu:
-        - text: "Projet 1"
-          href: projet1.qmd
-        - text: "Projet 2"
-          href: projet2.qmd
-        - text: "Projet 3"
-          href: projet3.qmd
+  page-footer:
+      center: 
+        - text: "Contact"
+          href: mailto:lesmouettessavantes@gmail.com
+
+
+
 format:
   html:
-    theme: sandstone
+    theme: [sandstone]
     fontcolor: "#2D4200"
     linkcolor: "#A3BD00"
     css: styles.css

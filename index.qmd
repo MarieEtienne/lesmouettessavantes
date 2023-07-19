@@ -1,7 +1,8 @@
 ---
 title: "Les Mouettes Savantes"
-subtitle: "Les mathématiques et l’informatique au service de l’écologie"
+subtitle: "Les mathématiques et l'informatique <br> au  service de l’écologie"
 title-block-banner: true
+title-block-banner-color: "#d5e3d6"
 ---
 
 ```{=html}
