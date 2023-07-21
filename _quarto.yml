@@ -24,7 +24,7 @@ website:
 
 format:
   html:
-    theme: [sandstone]
+    theme: sandstone
     fontcolor: "#2D4200"
     linkcolor: "#A3BD00"
     css: styles.css
