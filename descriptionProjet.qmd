@@ -43,11 +43,11 @@ A l'issue de la semaine, Les participantes restitueront leurs travaux sous la fo
 
 Le projet est coordonné par des chercheuses et enseignantes chercheuses :
 
--   [Anna Bonnet](https://anna.biogeek.land/) : maître de conférence à Sorbonne Université
+-   [Anna Bonnet](https://anna.biogeek.land/) : maître de conférences à Sorbonne Université, spécialiste de l'inférence statistique des processus ponctuels
 
 -   [Sophie Donnet](https://sophiedonnet.github.io/) : directrice de recherche à INRAE, spécialiste de la modélisation des interactions entre espèces
 
--   [Marie-Pierre Etienne](https://marieetienne.github.io/) : maître de conférence à SupAgro Rennes, spécialiste de l'écologie du mouvement
+-   [Marie-Pierre Etienne](https://marieetienne.github.io/) : maître de conférences à L'Institut Agro Rennes-Angers, spécialiste de l'écologie du mouvement
 
 D'autres intervenants, doctorantes ou doctorants, chercheuses ou chercheurs, enseignantes ou enseignants participeront à l'encadrement des projets durant la semaine.
 
