@@ -1,8 +1,10 @@
 ---
 title: "Organisation du séjour"
 title-block-banner: true
+title-block-banner-color: "#d5e3d6"
 ---
 
+```{=html}
 <style>
 
 #title-block-header {
@@ -24,13 +26,15 @@ title-block-banner: true
 
 }
 
-
 .p{
 margin-top: 10px; /* An absolute length */
 }
 
 </style>
+```
+           
 
+</p>
 
 
 
