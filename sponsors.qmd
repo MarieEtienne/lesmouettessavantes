@@ -1,0 +1,94 @@
+---
+title: "Un grand merci à "
+title-block-banner: true
+---
+
+<style>
+
+#title-block-header {
+  margin-block-end: 10rem;
+  position: relative;
+  margin-top: -1px;
+  height: 75px;
+  text-align: right;
+  padding-bottom: 1erm;
+}
+
+.quarto-title-banner {
+  margin-block-end: 10rem;
+  position: relative;
+  margin-top: -30px;
+  height: 85%;
+  background-image: url('_images/sb_paimpont_crop.jpeg');
+  background-repeat: no-repeat;
+
+}
+
+
+.p{
+margin-top: 10px; /* An absolute length */
+}
+
+</style>
+
+
+
+
+
+# Les employeurs des animatrices scientifiques
+
+Nous serons quatre animatrices scientifiques, nous en sommes aussi les organisatrices. Cette idée de partager notre expérience et de montrer en quoi les mathématiques sont utiles dans les sciences environnementtales nous tient à coeur et nous avons mis de l'énergie dans la mise en place de ce projet. Ceci a été possible grâce aux soutiens des écoles, universités ou organismes de rechecrhe qui nous emploient. Merci donc à l'Institut Agro Rennes-Angers, INRAE, Sorbonne université et l'université de Bretagne occidentale. 
+
+| ![Institut Agro Rennes-Angers](_images/ia_ra_logo.png)  | ![INRAE](_images/inrae_logo.png) |![Sorbonne Université](_images/sorbonne_universite_logo.png) | ![UBO](_images/ubo_logo.png) |
+|:-----:|:-----:|:------:|:------:|
+
+
+
+# Le porteur du séjour
+
+L’Association [Animath](https://www.animath.fr/) a pour but de favoriser l’introduction, le fonctionnement, le développement, la mise en réseau, la valorisation et la reconnaissance institutionnelle d’activités mathématiques dans les écoles, collèges, lycées et établissements de niveau universitaire. C'est dans le cadre de ces activités que l'association a accepté de porter le séjour, c'est-à-dire nous aider dans le montage et la gestion financière du projet, mais également sur les aspects réglementaires (notamment en terme d'assurance). C'est grâce à cette association que le projet qui avait germé dans nos têtes a pu voir le jour.
+
+| ![Animath](_images/animath_logo.png)  |  | |  |
+|:-----:|:-----:|:------:|:------:|
+
+
+# Les financeurs du projet
+
+De nombreux acteurs de la recherche et de l'enseignement supérieur ont participer financièrement au projet 
+
+## Des laboratoires de recherche
+
+Un laboratoire de recherche ou  une unité de recherche est une structure donnant un cadre de travail aux chercheurs. Il peut être affilié à une université, à une école du supérieur, ou à un organisme de recherche scientifique voire le plus souvent à plusieurs entités de ce type. 
+
+|![IRMAR](_images/irmar_logo.png)  [IRMAR](https://irmar.univ-rennes.fr/)|![LMBA](_images/lmba.jpg)  [LMBA](http://www.math.univ-brest.fr/)| 
+|:-----:|:-----:|
+
+## Des groupes scientifiques
+ 
+Au-delà des regroupements locaux au sein des laboratoires, les chercheurs se structurent en réseau autour de leurs thématiques d'intérêts. Il se rencontrent, collaborent, se structurent. C'est notamment le rôle des Groupes de Recherche (GDR). Le [GDR Ecologie Statistique](https://sites.google.com/site/gdrecostat/) existe depuis 10 ans et il structure la communauté des chercheurs de différentes disciplines intéressés par des questions  à l'interface entre les statistiques, l'informatique et l'écologie. 
+
+Certains laboratoires se regroupent pour demander le statut de LabEx signifiant Laboratoire d'excellence. Ces regroupements sont l'assurance de moyens supplémentaires pour financer la recherche au sein de ces regroupements. Le [Centre Henri Lebesgue (CHL)](https://www.lebesgue.fr/fr) est un LabEx qui regroupe des laboratoires en mathématiques de Brest, Vannes, Rennes, Nantes, Le Mans et Angers.
+
+|![EcoStat](_images/gdr_logo.jpeg)  [GDR Ecostat](https://sites.google.com/site/gdrecostat/)|![CHL](_images/chl_logo.png)  [CHL](https://www.lebesgue.fr/fr)| 
+|:-----:|:-----:|
+
+
+## Des organismes de recherche 
+
+La recherche en France est aussi structuré par des organismes de recherche. Parmis ces organismes, Le Centre National de la Recherche Scientifique ([CNRS](https://www.cnrs.fr/fr))  a une mission définie depuis 1982 par  **Identifier, effectuer ou faire effectuer toutes les recherches présentant un intérêt pour la science ainsi que pour le progrès technologique, social et culturel du pays**.Il est structuré en instituts, c'est l'INSMI (Institut national des sciences mathématiques et de leurs interactions (Insmi) ) qui s'occupe de la recherche en mathématique. [INRAE](https://www.inrae.fr/nous-connaitre), l’Institut national de recherche pour l’agriculture, l’alimentation et l’environnement est né le 1er janvier 2020. Il est issu de la fusion entre l’Inra, Institut national de la recherche agronomique et Irstea, Institut national de recherche en sciences et technologies pour l’environnement et l’agriculture. Cet organisme structure la recherche autour des questions de sécurité alimentaire, transition des agricultures, préservation des ressources naturelles, restauration de la biodiversité, anticipation et gestion des risques. Quand il s'agit de développemnt de nouvelels méthodes pour comprendre et analyser des données autour de ces sujets, c'est le domaine du département MathNum. 
+
+Ces deux organismes sont soucieux du développement et de la formations dans leurs disciplines et sont vigilants sur les questions de parité. C'est notamment à ce titre que ces deux organismes ont participé au financement des Mouettes Savantes.
+
+|![INSMI](_images/cnrs_insmi_logo.jpeg)  [INSMI](https://www.insmi.cnrs.fr/fr)|![MathNUM](_images/mathnum_logo.png)  [MathNum](https://www.inrae.fr/departements/mathnum)| 
+|:-----:|:-----:|
+
+
+## Des programmes de médiation scientifique
+
+Différentes structures, des écoles, des Fondations, des programmes gouvenementaux  se préoccupent d'encourager la découverte des mathématiques et de la sensibilisation sur les enjeux de la transition écologiqe.   Ces différents structures ont également apporté un soutien important aux Mouettes Savantes.
+
+
+|![Blaise Pascal](_images/blaise_pascal_logo.png)  [Fondation Blaise Pascal](https://www.fondation-blaise-pascal.org/)|![AgroParisTech](_images/agroparistech.png)  [Médiation Scientifique à AgroParisTech](https://www.agroparistech.fr/)| 
+|:-----:|:-----:|
+
+

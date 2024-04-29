@@ -15,6 +15,8 @@ website:
         text: Démarche
       - href: orga.qmd
         text: Détails pratiques
+      - href: sponsors.qmd
+        text: Les sponsors
   page-footer:
       center: 
         - text: "Contact"
