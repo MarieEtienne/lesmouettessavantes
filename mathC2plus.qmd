@@ -1,0 +1,58 @@
+---
+title: "Label MathC2+"
+title-block-banner: true
+---
+
+<style>
+
+#title-block-header {
+  margin-block-end: 10rem;
+  position: relative;
+  margin-top: -1px;
+  height: 75px;
+  text-align: right;
+  padding-bottom: 1erm;
+}
+
+.quarto-title-banner {
+  margin-block-end: 10rem;
+  position: relative;
+  margin-top: -30px;
+  height: 85%;
+  background-image: url('_images/sb_paimpont_crop.jpeg');
+  background-repeat: no-repeat;
+
+}
+
+
+.p{
+margin-top: 10px; /* An absolute length */
+}
+
+</style>
+
+
+
+
+
+Notre projet a reçu la labellisation [MathC2+](https://www.mathc2plus.fr/).  
+
+Comme indiqué sur le site de MathC2+, à l’échelle nationale, le programme MathC2+ répond aux objectifs du Ministère de l’éducation nationale en matière d’enseignement des mathématiques et des sciences. L’ambition d’ouvrir le monde de la recherche scientifique à tous et à toutes (notamment aux élèves qui n’y sont pas familiarisés) coïncide avec celle de faire émerger une nouvelle culture scientifique et de repérage de jeunes talents en mathématiques, en particulier dans les zones d’éducation prioritaire. Les interventions et exercices permettent aux participants de redécouvrir les mathématiques en dehors du cadre scolaire et notamment leur utilisation dans d’autres champs scientifiques (biologie, physique, astronomie, etc.) ainsi que d’approcher les algorithmes et l’informatique.
+
+
+Le programme [MathC2+](https://www.mathc2plus.fr/) est mené par 3 partenaires institutionnels qui sont mobilisées pour assurer son fonctionnement
+
+|![SMF](_images/_mathsC2plus/SMF_logo.png)|![Ministère](_images/_mathsC2plus/ministere_logo.png)|![Animath](_images/animath_logo.png)|
+|:-----:|:-----:|:-----:|
+
+et est soutenu par des mécènes et institutions donatrices, sans lesquelles le programme ne serait pas.
+
+|![Agir](_images/_mathsC2plus/agir_logo.png)|![Fondation Blaise Pascal](_images/_mathsC2plus/BlaisePascal_logo.png)|![Casio](_images/_mathsC2plus/Casio_logo.png)|![CNRS](_images/_mathsC2plus/CNRS_logo.png)|![College de France](_images/_mathsC2plus/CollegeDeFrance_logo.png)|
+|:-----:|:-----:|:-----:|:----:|:----:|
+
+|![Engie](_images/_mathsC2plus/engie_logo.png)|![Fondation](_images/_mathsC2plus/FondationCollegeDeFrance_logo.png)|![Google](_images/_mathsC2plus/google_logo.png)|![LVMH](_images/_mathsC2plus/LVMH_logo.png)|![Natixis](_images/_mathsC2plus/natixis_logo.png)| | |
+|:-----:|:-----:|:-----:|:----:|:----:|
+
+
+
+

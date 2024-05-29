@@ -17,6 +17,8 @@ website:
         text: Détails pratiques
       - href: sponsors.qmd
         text: Les sponsors
+      - href: mathC2plus.qmd
+        text: Label MathC2+
   page-footer:
       center: 
         - text: "Contact"
