@@ -1,0 +1,72 @@
+---
+title: "L'édition 2024"
+editor: visual
+---
+
+## 10 lycées, 20 lycéennes
+
+En 2024 du 24 au 28 juin , [la station biologique de Paimpont](https://paimpont.univ-rennes.fr/) en forêt de Brocéliande (centre Bretagne)a accueilli   20 lycéennes mouettes, issues des classe de seconde de 10 lycées différents d'Ile de France Sud et de la métropole rennaise pour leur proposer une semaine d'initiation à la recherche en mobilisant mathématique et  informatique dans le but de répondre  à des questions liées à des enfeux autour des transitions environnementales.
+
+Les Lycéennes mouettes étaient logées [CPIE](https://www.cpie-broceliande.fr/).
+
+Durant cette semaine,  par petits groupes, elles ont exploré des questions écologiques ou environnementales.
+
+-   Quels sont les leviers dans notre alimentation pour limiter notre empreinte carbone ?
+
+-   Comment évaluer la diversité des espèces animales présentes en un site à partir de techniques d'observation peu invasives ?
+
+-   Comment prédire les températures de demain en France ?
+
+Cette exploration a nécessité de mobiliser des outils mathméatiques et informatiques.
+
+Les animatrices scientifiques étaient  des chercheuses et enseignantes chercheuses :
+
+-   [Anna Bonnet](https://anna.biogeek.land/) : maître de conférences à Sorbonne Université, spécialiste de l'inférence statistique des processus ponctuels
+
+-   [Sophie Donnet](https://sophiedonnet.github.io/) : directrice de recherche à INRAE, spécialiste de la modélisation des interactions entre espèces
+
+-   [Marie-Pierre Etienne](https://marieetienne.github.io/) : maître de conférences à L'Institut Agro Rennes-Angers, spécialiste de l'écologie du mouvement
+
+-   [Juliette Legrand](https://juliettelegrand.netlify.app/) : maître de conférences à L'Universite de Bretagne Occidentale , spécialiste des modèles de valeurs extrêmes, notamment dans un contexte climatique et océanographique
+
+
+Pour reposer les cerveaux et nourrir la bonne humeur, les lycéennes mouettes ont pu contacter sur les animations proposées par des professionnelles de l'animation : [Manon Perrignon](https://stlo.rennes.hub.inrae.fr/content/download/703/7288?version=1) (titulaire du BAFA et étudiante en thèse à l'interface statistique et agro alimentaire, [sa thèse en 180s pour en savoir plus](https://www.youtube.com/watch?v=y6Vsc9Mfku4)), Fanny Mas (titulaire du BAFA et étudiante en L3 de mathématique à l'université Paris Saclay), [Camille Trohel](https://www.lespetitspoissonsproduction.com/) (titulaire du BAFD et organisatrice de séjour pour enfants et adolescents). Ainsi hors des temps scientifiques, on a pu s'initer à l'accrobranche, profiter de ballades contées dans la forêt de Brocéliande, s'instruire sur Arthur et ses amis au centre Arthurien, mener une enquête policière, se laisser émerveiller par des artistes de cirque et surtout rire et partager de bons moments.
+
+
+## Les Sponsors
+
+Ce séjour porté par L’Association [Animath](https://www.animath.fr/) | ![Animath](_images/animath_logo.png)  |  | |  |
+|:-----:|:-----:|:------:|:------:|
+
+a été entièrement financé grâce  
+
+- aux employeurs des animatrices scientifiques
+
+| ![Institut Agro Rennes-Angers](_images/ia_ra_logo.png)  | ![INRAE](_images/inrae_logo.png) |![Sorbonne Université](_images/sorbonne_universite_logo.png) | ![UBO](_images/ubo_logo.png) |
+|:-----:|:-----:|:------:|:------:|
+
+- à des laboratoires de recherche
+
+Un laboratoire de recherche ou  une unité de recherche est une structure donnant un cadre de travail aux chercheurs. Il peut être affilié à une université, à une école du supérieur, ou à un organisme de recherche scientifique voire le plus souvent à plusieurs entités de ce type. 
+
+|![IRMAR](_images/irmar_logo.png)  [IRMAR](https://irmar.univ-rennes.fr/)|![LMBA](_images/lmba.jpg)  [LMBA](http://www.math.univ-brest.fr/)| 
+|:-----:|:-----:|
+
+- à des groupes scientifiques
+ 
+|![EcoStat](_images/gdr_logo.jpeg)  [GDR Ecostat](https://sites.google.com/site/gdrecostat/)|![CHL](_images/chl_logo.png)  [CHL](https://www.lebesgue.fr/fr)| 
+|:-----:|:-----:|
+
+- des organismes de  recherche 
+
+|![INSMI](_images/cnrs_insmi_logo.jpeg)  [INSMI](https://www.insmi.cnrs.fr/fr)|![MathNUM](_images/mathnum_logo.png)  [MathNum](https://www.inrae.fr/departements/mathnum)| 
+|:-----:|:-----:|
+
+- des programmes de médiation scientifique
+
+|![Blaise Pascal](_images/blaise_pascal_logo.png)  [Fondation Blaise Pascal](https://www.fondation-blaise-pascal.org/)|![AgroParisTech](_images/agroparistech.png)  [Médiation Scientifique à AgroParisTech](https://www.agroparistech.fr/)| 
+|:-----:|:-----:|
+
+- le  programme [MathC2+](https://www.mathc2plus.fr/) et ses mécènes.
+
+un grand merci à eux pour avoir permis cette belle semaine !

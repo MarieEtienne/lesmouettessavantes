@@ -13,27 +13,21 @@ Le projet des Mouettes Savantes vise à sensibiliser les lycéennes sur l'intér
 
 ### Pour qui ?
 
-Un groupe de 20 lycéennes, en classe de seconde, issues de lycées d'Ile de France Sud et de la métropole rennaise qui souhaitent découvrir l'application des mathématiques et de l'informatique en écologie et en environnement.
+Un groupe de 30 lycéennes, en classe de seconde, issues de lycées d'Ile de France Sud, d'ille et Vilaine et du Finistère qui souhaitent découvrir l'application des mathématiques et de l'informatique en écologie et en environnement.
 
 ### Quand ?
 
-Du 24 au 28 juin 2024
+Du 16 au 20 juin 2025
 
 ### Où ?
 
-Les activités scientifiques auront lieu à [la station biologique de Paimpont](https://paimpont.univ-rennes.fr/) en forêt de Brocéliande (centre Bretagne). Les participantes seront hébergées au [CPIE](https://www.cpie-broceliande.fr/).
+Les activités scientifiques auront lieu à [la station biologique de Paimpont](https://paimpont.univ-rennes.fr/) en forêt de Brocéliande (centre Bretagne). Les participantes seront hébergées dans les chalets du [camping de paimpont](https://www.camping-paimpont-broceliande.com/les-chalets/).
 
 ### Pour y faire quoi ?
 
 La journée type propose une matinée autour de questions scientifiques et des après-midis sportives ou de découverte de la forêt de Brocéliande.
 
-Durant les temps dédiés aux activités scientifiques, les lycéennes s'organisent en petits groupes pour construire une réponse à un problème lié à des questions écologiques ou environnementales. Par exemple :
-
--   Quels sont les leviers dans notre alimentation pour limiter notre empreinte carbone ?
-
--   Comment évaluer la diversité des espèces animales présentes en un site à partir de techniques d'observation peu invasives ?
-
--   Comment les étourneaux coordonnent-ils leurs vols ?
+Durant les temps dédiés aux activités scientifiques, les lycéennes s'organisent en petits groupes pour construire une réponse à un problème lié à des questions écologiques ou environnementales ([les projets de 2024](mouettes2024.html))
 
 A l'issue de la semaine, Les participantes restitueront leurs travaux sous la forme d'un poster, d'une vidéo, d'un podcast ou de tout autre support de leur choix, ce qui leur permettra de partager l'expérience avec leur entourage au lycée ou dans le milieu familial.
 
@@ -47,11 +41,13 @@ Le projet est coordonné par des chercheuses et enseignantes chercheuses :
 
 -   [Marie-Pierre Etienne](https://marieetienne.github.io/) : maître de conférences à L'Institut Agro Rennes-Angers, spécialiste de l'écologie du mouvement
 
--   [Juliette Legrand](https://juliettelegrand.netlify.app/) : maître de conférences à L'Universite de Bretagne Occidentale , spécialiste des modèles de valeurs extrêmes, notamment dans un contexte climatique et océanographique
+-   [Juliette Legrand](https://juliettelegrand.netlify.app/) : maître de conférences à L'Universite de Bretagne Occidentale, spécialiste des modèles de valeurs extrêmes, notamment dans un contexte climatique et océanographique
+
+-   [Marie Perrot-Dockès](https://marie-perrotdockes.github.io/) : maître de conférences à L'Universite de Paris, spécialiste des données en grande dimension, notamment dans les applications médicales
 
 D'autres intervenants, doctorantes ou doctorants, chercheuses ou chercheurs, enseignantes ou enseignants participeront à l'encadrement des projets durant la semaine.
 
-Par ailleurs, la vie quotidienne et les animations seront encadrés par des professionnels de l'animation titulaires du BAFA ou BAFD.
+Par ailleurs, la vie quotidienne et les animations seront encadrés par des professionnels de l'animation titulaires du BAFA ou BAFD (et pour certaines engagées dans des études de mathématiques)
 
 ### Nous contacter
 

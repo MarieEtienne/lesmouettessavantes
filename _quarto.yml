@@ -19,6 +19,12 @@ website:
         text: Les sponsors
       - href: mathC2plus.qmd
         text: Label MathC2+
+      - text: "Editions passées"
+        icon: fa-laptop
+        menu:
+        - text: "2024"
+          href: mouettes2024.qmd
+        
   page-footer:
       center: 
         - text: "Contact"
