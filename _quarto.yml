@@ -13,8 +13,6 @@ website:
         text: Présentation
       - href: descriptionProjet.qmd
         text: Démarche
-      - href: orga.qmd
-        text: Détails pratiques
       - href: sponsors.qmd
         text: Les sponsors
       - href: mathC2plus.qmd

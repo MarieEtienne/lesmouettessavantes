@@ -39,7 +39,7 @@ margin-top: 10px; /* An absolute length */
 
 Nous serons quatre animatrices scientifiques, nous en sommes aussi les organisatrices. Cette idée de partager notre expérience et de montrer en quoi les mathématiques sont utiles dans les sciences environnementtales nous tient à coeur et nous avons mis de l'énergie dans la mise en place de ce projet. Ceci a été possible grâce aux soutiens des écoles, universités ou organismes de rechecrhe qui nous emploient. Merci donc à l'Institut Agro Rennes-Angers, INRAE, Sorbonne université et l'université de Bretagne occidentale. 
 
-| ![Institut Agro Rennes-Angers](_images/ia_ra_logo.png)  | ![INRAE](_images/inrae_logo.png) |![Sorbonne Université](_images/sorbonne_universite_logo.png) | ![UBO](_images/ubo_logo.png) |
+| ![ENSAI](_images/Logo_ENSAI_2014)  | ![INRAE](_images/inrae_logo.png) |![Sorbonne Université](_images/sorbonne_universite_logo.png) | ![UBO](_images/ubo_logo.png) |
 |:-----:|:-----:|:------:|:------:|
 
 
@@ -56,12 +56,6 @@ L’Association [Animath](https://www.animath.fr/) a pour but de favoriser l’i
 
 De nombreux acteurs de la recherche et de l'enseignement supérieur ont participer financièrement au projet 
 
-## Des laboratoires de recherche
-
-Un laboratoire de recherche ou  une unité de recherche est une structure donnant un cadre de travail aux chercheurs. Il peut être affilié à une université, à une école du supérieur, ou à un organisme de recherche scientifique voire le plus souvent à plusieurs entités de ce type. 
-
-|![IRMAR](_images/irmar_logo.png)  [IRMAR](https://irmar.univ-rennes.fr/)|![LMBA](_images/lmba.jpg)  [LMBA](http://www.math.univ-brest.fr/)| 
-|:-----:|:-----:|
 
 ## Des groupes scientifiques
  
@@ -91,4 +85,10 @@ Différentes structures, des écoles, des Fondations, des programmes gouvenement
 |![Blaise Pascal](_images/blaise_pascal_logo.png)  [Fondation Blaise Pascal](https://www.fondation-blaise-pascal.org/)|![AgroParisTech](_images/agroparistech.png)  [Médiation Scientifique à AgroParisTech](https://www.agroparistech.fr/)| 
 |:-----:|:-----:|
 
+## Des entreprises
 
+En 2025 nos avons eu la joie de recevoir le support spontané de [Casio](https://www.casio.com/fr/), dans le acdre de son programme [Women Do Science](https://www.casio-education.fr/actualites/women-do-science/).
+
+
+|![Casio](_images/logo_casio.png)  | |
+|:-----:|:-----:|
