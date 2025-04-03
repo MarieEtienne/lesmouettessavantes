@@ -3,7 +3,7 @@ title: "L'édition 2024"
 editor: visual
 ---
 
-![](render/_images/mouettes2024.jpeg)
+![](_images/mouettes2024.jpeg)
 
 
 ## 10 lycées, 20 lycéennes
