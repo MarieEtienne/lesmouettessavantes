@@ -3,7 +3,8 @@ title: "Les Mouettes en 2025"
 editor: visual
 ---
 
-Le projet des Moouettes savantes est né dans notre tête en 2023, la première édition a eu lien en 2024. Voici une présentation de nos motivations et les détails pratiques de l'édition 2025.
+Le projet des Mouettes savantes est né dans notre tête en 2023, la première édition a eu lien en 2024. Voici une présentation de nos motivations et les détails pratiques de l'édition 2025.
+
 
 ### Pourquoi ?
 
@@ -37,13 +38,13 @@ A l'issue de la semaine, Les participantes restitueront leurs travaux sous la fo
 
 Le projet est coordonné par des chercheuses et enseignantes chercheuses :
 
--   [Anna Bonnet](https://anna.biogeek.land/) : maître de conférences à Sorbonne Université, spécialiste de l'inférence statistique des processus ponctuels
+-   [Anna Bonnet](https://annabonnet.github.io/) : maître de conférences à Sorbonne Université, spécialiste de l'inférence statistique des processus ponctuels
 
 -   [Sophie Donnet](https://sophiedonnet.github.io/) : directrice de recherche à INRAE, spécialiste de la modélisation des interactions entre espèces
 
 -   [Marie-Pierre Etienne](https://marieetienne.github.io/) : maître de conférences à L'Institut Agro Rennes-Angers, spécialiste de l'écologie du mouvement
 
--   [Juliette Legrand](https://juliettelegrand.netlify.app/) : maître de conférences à L'Universite de Bretagne Occidentale, spécialiste des modèles de valeurs extrêmes, notamment dans un contexte climatique et océanographique
+-   [Juliette Legrand](https://juliette_legrand.pages.math.cnrs.fr/) : maître de conférences à L'Universite de Bretagne Occidentale, spécialiste des modèles de valeurs extrêmes, notamment dans un contexte climatique et océanographique
 
 -   [Marie Perrot-Dockès](https://marie-perrotdockes.github.io/) : maître de conférences à L'Universite de Paris, spécialiste des données en grande dimension, notamment dans les applications médicales
 

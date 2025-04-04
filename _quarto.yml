@@ -12,7 +12,7 @@ website:
       - href: index.qmd
         text: Présentation
       - href: descriptionProjet.qmd
-        text: Démarche
+        text: "Les Mouettes en 2025"
       - href: sponsors.qmd
         text: Les sponsors
       - href: mathC2plus.qmd
