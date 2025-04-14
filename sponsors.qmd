@@ -76,6 +76,14 @@ Ces deux organismes sont soucieux du développement et de la formations dans leu
 |![INSMI](_images/cnrs_insmi_logo.jpeg)  [INSMI](https://www.insmi.cnrs.fr/fr)|![MathNUM](_images/mathnum_logo.png)  [MathNum](https://www.inrae.fr/departements/mathnum)| 
 |:-----:|:-----:|
 
+## Des programmes de recherche
+
+La recherche en France est financée pour partie par des appels à projet. En 2024, l'agence Nationale pour la recherche a lancé le [Programme de recherche
+Mathématiques en interaction, pour le vivant, l’environnement et la société MathsVives](https://www.maths-vives.fr/le-programme/). Ce programme finance, des projets de recherche mais aussi offre du soutien à des formations notamment sur des questions pluridisplinaires. En 2025, MathsVives nous a offert du soutien pour 4 ans 
+
+|![MathsVives](_images/FR2030_Mathématiques en interaction_Couleur.png)  [MathsVives](https://www.maths-vives.fr/le-programme/)| |
+|:-----:|:-----:|
+
 
 ## Des programmes de médiation scientifique
 
