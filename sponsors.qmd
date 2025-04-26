@@ -63,7 +63,9 @@ Au-delà des regroupements locaux au sein des laboratoires, les chercheurs se st
 
 Certains laboratoires se regroupent pour demander le statut de LabEx signifiant Laboratoire d'excellence. Ces regroupements sont l'assurance de moyens supplémentaires pour financer la recherche au sein de ces regroupements. Le [Centre Henri Lebesgue (CHL)](https://www.lebesgue.fr/fr) est un LabEx qui regroupe des laboratoires en mathématiques de Brest, Vannes, Rennes, Nantes, Le Mans et Angers.
 
-|![EcoStat](_images/gdr_logo.jpeg)  [GDR Ecostat](https://sites.google.com/site/gdrecostat/)|![CHL](_images/chl_logo.png)  [CHL](https://www.lebesgue.fr/fr)| 
+Un second regroupement de laboratoires de mathématiques des régions Bretagne et Pays de la Loire est la [Fédération de recherche Henri Lebesgue (FHL)](https://federation-henri-lebesgue.fr/), qui regroupe les mêmes laboratoires que le CHL, à savoir les laboratoires en mathématiques de Brest, Vannes, Rennes, Nantes, Le Mans et Angers.
+
+|![EcoStat](_images/gdr_logo.jpeg)  [GDR Ecostat](https://sites.google.com/site/gdrecostat/)|![CHL](_images/chl_logo.png)  [CHL](https://www.lebesgue.fr/fr)|![FHL](_images/fhl_logo.png)  [FHL](https://federation-henri-lebesgue.fr/)| 
 |:-----:|:-----:|
 
 
